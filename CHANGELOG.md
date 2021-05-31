@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 
+- Преревод шаблона ADR на русский язык
+
+### Added
+
 - Disable [markdown-lint](https://github.com/DavidAnson/markdownlint)'s [MD013 - line length](https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md013---line-length) for the ADR files.
 
 ## [2.1.2] – 2019-02-17

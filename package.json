@@ -1,9 +1,11 @@
 {
-  "name": "madr",
-  "description": "Markdown Architectural Decision Records",
+  "name": "madr-ru",
+  "description": "Markdown Architectural Decision Records на русском",
   "keywords": [
     "adr",
     "architectural decision",
+    "архитектурные решения",
+    "документация",
     "architectural decision record",
     "architecture decision",
     "architecture decision record",
@@ -11,18 +13,19 @@
     "documentation",
     "markdown"
   ],
-  "version": "2.1.2",
+  "version": "3.1.2",
   "homepage": "https://adr.github.io/madr/",
   "author": "Oliver Kopp (http://github.com/koppor/)",
   "contributors": [
-    "Olaf Zimmermann (http://www.ifs.hsr.ch/Olaf-Zimmermann.11623.0.html)"
+    "Olaf Zimmermann (http://www.ifs.hsr.ch/Olaf-Zimmermann.11623.0.html)",
+    "Surovtsev Alex"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/adr/madr.git"
+    "url": "https://github.com/surovtsev/madr-ru"
   },
   "bugs": {
-    "url": "https://github.com/adr/madr/issues"
+    "url": "https://github.com/surovtsev/madr-ru/issues"
   },
   "license": "CC0-1.0",
   "files": [

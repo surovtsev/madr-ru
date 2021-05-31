@@ -1,74 +1,73 @@
-# [short title of solved problem and solution]
+# [короткий заголовок проблемы и решения]
 
-* Status: [proposed | rejected | accepted | deprecated | … | superseded by [ADR-0005](0005-example.md)] <!-- optional -->
-* Deciders: [list everyone involved in the decision] <!-- optional -->
-* Date: [YYYY-MM-DD when the decision was last updated] <!-- optional -->
+* Статус: [предложение | отвергнуто | принято | устарело | … | поглощено [ADR-0005](0005-example.md)] <!-- опционально -->
+* Принявшие решение: [список всех кто был вовлечен в принятие решения] <!-- опционально -->
+* Дата: [YYYY-MM-DD когда решение было обновлено] <!-- опционально -->
+* Использованный шаблон: [MADR 3.0.0](https://adr.github.io/madr/) <!-- опционально -->
 
-Technical Story: [description | ticket/issue URL] <!-- optional -->
+Техническая история: [описание | ссылка на запрос/задачу ] <!-- опционально -->
 
-## Context and Problem Statement
+## Контекст и описание проблемы
 
-[Describe the context and problem statement, e.g., in free form using two to three sentences. You may want to articulate the problem in form of a question.]
+[Описание контекста и описания проблемы, например, в простой форме, двумя или тремя предложениями. Вы можете выразить проблему в форме вопроса.]
 
-## Decision Drivers <!-- optional -->
+## Факторы принятия решения <!-- опционально -->
 
-* [driver 1, e.g., a force, facing concern, …]
-* [driver 2, e.g., a force, facing concern, …]
-* … <!-- numbers of drivers can vary -->
+* [ограничение 1, например, фактор, проблема с которой столкнулись, …]
+* [ограничение 2, например, фактор, проблема с которой столкнулись, …]
+* … <!-- количество факторов при принятии решения может быть разным -->
 
-## Considered Options
+## Рассмотренные варианты
 
-* [option 1]
-* [option 2]
-* [option 3]
-* … <!-- numbers of options can vary -->
+* [вариант 1]
+* [вариант 2]
+* [вариант 3]
+* … <!-- количество вариантов может быть разным -->
 
-## Decision Outcome
+## Итоговое решение
 
-Chosen option: "[option 1]", because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
+Выбран вариант: "[вариант 1]", потому что [обоснование. например, только один вариант, который удовлетворяет ограничениям | который решает проблему | … | подходит лучше всего].
 
-### Positive Consequences <!-- optional -->
+### Положительные последствия <!-- опционально -->
 
-* [e.g., improvement of quality attribute satisfaction, follow-up decisions required, …]
+* [например., улучшение качественных показателей, следует принять решения, …]
 * …
 
-### Negative Consequences <!-- optional -->
+### Отрицательные последствия <!-- опционально -->
 
-* [e.g., compromising quality attribute, follow-up decisions required, …]
+* [например., ущерб для качественных показателей, следует принять решения, …]
 * …
 
-## Pros and Cons of the Options <!-- optional -->
+## Плюсы и минусы вариантов <!-- опционально -->
 
-### [option 1]
+### [Вариант 1]
 
-[example | description | pointer to more information | …] <!-- optional -->
+[пример | описание | ссылка по теме | …] <!-- опционально -->
 
-* Good, because [argument a]
-* Good, because [argument b]
-* Bad, because [argument c]
-* … <!-- numbers of pros and cons can vary -->
+* хорошо, потому что [аргумент a]
+* хорошо, потому что [аргумент a]
+* плохо, потому что [аргумент c]
+* … <!-- количество за и против могут быть разным -->
 
-### [option 2]
+### [Вариант 2]
 
-[example | description | pointer to more information | …] <!-- optional -->
+[пример | описание | ссылка по теме | …] <!-- опционально -->
 
-* Good, because [argument a]
-* Good, because [argument b]
-* Bad, because [argument c]
-* … <!-- numbers of pros and cons can vary -->
+* хорошо, потому что [аргумент a]
+* хорошо, потому что [аргумент a]
+* плохо, потому что [аргумент c]
+* … <!-- количество за и против могут быть разным -->
 
-### [option 3]
+### [Вариант 3]
 
-[example | description | pointer to more information | …] <!-- optional -->
+[пример | описание | ссылка по теме | …] <!-- опционально -->
 
-* Good, because [argument a]
-* Good, because [argument b]
-* Bad, because [argument c]
-* … <!-- numbers of pros and cons can vary -->
+* хорошо, потому что [аргумент a]
+* хорошо, потому что [аргумент a]
+* плохо, потому что [аргумент c]
+* … <!-- количество за и против могут быть разным -->
 
-## Links <!-- optional -->
+## Ссылки <!-- опционально -->
 
-* [Link type] [Link to ADR] <!-- example: Refined by [ADR-0005](0005-example.md) -->
-* … <!-- numbers of links can vary -->
-
-<!-- markdownlint-disable-file MD013 -->
+* [Вид ссылки] [Ссылка на ADR] <!-- например: Предложение [ADR-0005](0005-example.md) -->
+* … <!-- количество ссылок может быть разным -->
